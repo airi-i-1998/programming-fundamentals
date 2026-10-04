@@ -1,0 +1,2 @@
+# programming-fundamentals
+プログラミングの基礎を学ぶためのリポジトリ
